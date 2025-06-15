@@ -77,7 +77,7 @@ AI-Mushroom-Classification-Analysis-master/
 ```bash
 conda create -n mushroom_classifier python=3.10
 conda activate mushroom_classifier
-git clone https://github.com/Rohitmh09/AI-Mushroom-Classification-Analysis.git
+git clone https://github.com/rushikeshs102/AI-Mushroom-Classification-Analysis-SMI
 cd AI-Mushroom-Classification-Analysis-master
 pip install -r requirements.txt
 ```
